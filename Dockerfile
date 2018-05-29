@@ -1,0 +1,1 @@
+FROM xqdocker/ubuntu-nginx
